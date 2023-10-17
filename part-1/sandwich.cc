@@ -1,7 +1,7 @@
 // Brandon Trujillo
 // btrujillo118@csu.fullerton.edu
 // @brandont118
-// Partners: @SirBagelton @pachmi
+// Partners: @SirBagelton, @pachmi
 
 #include <iostream>
 #include <string>
