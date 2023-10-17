@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Joseph Geiger
+// josgeig@csu.fullerton.edu
+// @SirBagelton
+// Partners:@brandont118, @pachmi
 
 /* Do not edit below this line. */
 /* Do not edit below this line. */
